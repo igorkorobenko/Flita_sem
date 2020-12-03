@@ -64,10 +64,10 @@ void quick_sort(unsigned int *arr, long n) {
 
 ![Alt-текст](https://github.com/igorkorobenko/Flita_sem/blob/main/quick_scheme.png "структурная схема быстрой сортировки")
 
-## Результат работы: 
+## рафик на малых количествах входных данных: 
 
 ![Alt-текст](https://github.com/igorkorobenko/Flita_sem/blob/main/graph1.png "график на малых количествах входных данных")
 
-## Отображение графа:
+## График на больших количествах входных данных:
 
 ![Alt-текст](https://github.com/igorkorobenko/Flita_sem/blob/main/graph2.png "График на больших количествах входных данных")
